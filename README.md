@@ -8,11 +8,18 @@ dictionary containing keywords and then simply counting the frequency of those w
 Just a small sample of the frequency of some of keywords and their occurrences : 
 
 statistics 49,
+
 databaser 55,
+
 logistics 67,
+
 excellence 76 ( this is here because 'excel' was mentioned as a key word ) ,
+
 azure 78,
+
 programming 80,
+
 excel 115,
+
 analytics 130,
 
